@@ -1,0 +1,6 @@
+{
+  "name": "Hand of Mercy Uganda",
+  "description": "Hand of Mercy Uganda (REG 1940) — Creating a Continuous Chain of Love. Restoring dignity, bringing healing, and creating opportunities for vulnerable children, youth, women, families, and communities across Uganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
